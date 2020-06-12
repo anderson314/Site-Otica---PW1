@@ -183,7 +183,7 @@ button
 /*Alinha a sessão ao centro da página*/
 .sec_redes_sociais
 {
-    width:1000px;
+    width:900px;
     margin:0 auto;
 }
 
@@ -194,6 +194,8 @@ button
     width:150px;
     margin-left:60px;
     float:left;
+    color:black;
+    text-align: center;
 }
 
 .redes_sociais:hover
@@ -209,7 +211,7 @@ button
 
 .redes_sociais img
 {
-    padding-left:50px;
+    padding-left:;
     width:150px;
 }
 
