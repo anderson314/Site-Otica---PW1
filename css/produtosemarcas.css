@@ -68,7 +68,54 @@ nav a.btn_destaque{
     
 }
 
+/*CONTEÚDO DA PÁGINA*/
 
+.parte_superior
+{
+    font-family:Trebuchet MS;
+    height:100px;
+    background:;
+    padding-left:60px;
+}
+
+.linha_masculina
+{
+    margin-top:50px;
+    height:350px;
+    background:#123458;
+    font-family: trebuchet MS;
+}
+
+.oculos-masculino
+{
+    height:200px;
+    width:250px;
+    float:left;
+    margin-left:30px;;
+
+}
+
+.oculos-masculino button
+{
+    height:35px;
+    width:150px;
+    margin: 0 auto;
+    background: rgb(255, 77, 77);
+    color: white;
+    border-radius: 3px;
+    border:3px rgb(255, 77, 77); 
+    
+    cursor: pointer;
+
+    margin-left:50px;
+}
+
+
+.linha_feminina
+{
+    height:250px;
+    background:#781452;
+}
 
 
 /*Parte do rodapé*/
