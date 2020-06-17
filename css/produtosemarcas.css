@@ -175,7 +175,7 @@ nav a.btn_destaque{
 
 footer
 {
-    
+    width:100%;
 }
 
 /*Esta classe foi criada para colocar todas as informações do footer em uma só para que pudesse
@@ -184,7 +184,6 @@ ser alinhado ao meio*/
 {
     margin: 0 auto;
     width:945px;
-    margin-left:px;
 }
 
 .footer_informacoes
