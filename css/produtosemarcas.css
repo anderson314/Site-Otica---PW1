@@ -74,7 +74,6 @@ nav a.btn_destaque{
 {
     font-family:Trebuchet MS;
     height:100px;
-    background:;
     padding-left:60px;
 }
 
@@ -82,8 +81,13 @@ nav a.btn_destaque{
 {
     margin-top:50px;
     height:350px;
-    background:#123458;
     font-family: trebuchet MS;
+}
+
+.conj_linha_masc
+{
+    width:1240px;
+    margin:0 auto;
 }
 
 .oculos-masculino
@@ -91,8 +95,57 @@ nav a.btn_destaque{
     height:200px;
     width:250px;
     float:left;
-    margin-left:30px;;
+    margin-left:40px;
+    font-family:Trebuchet MS;
+}
 
+.oculos-masculino:hover
+{
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition:0.5s;
+
+    cursor: pointer;
+}
+
+.simbolo-menor
+{
+    float: right;
+    margin-top:150px;
+    margin-left:20px;
+}
+
+.simbolo-maior
+{
+    float:left;
+    margin-top:150px;
+}
+
+.simbolo-maior:hover
+{
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition:0.5s;
+
+    cursor: pointer;
+}
+
+.simbolo-menor:hover
+{
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition:0.5s;
+
+    cursor: pointer;
 }
 
 .oculos-masculino button
@@ -113,8 +166,8 @@ nav a.btn_destaque{
 
 .linha_feminina
 {
-    height:250px;
-    background:#781452;
+    margin-top:50px;
+    height:350px;
 }
 
 
