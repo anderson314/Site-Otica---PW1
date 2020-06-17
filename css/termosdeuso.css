@@ -93,6 +93,21 @@ li
     font-size:20px;
 }
 
+.Texto_termos a button
+{
+    height:35px;
+    width:150px;
+    margin: 0 auto;
+    background: rgb(255, 77, 77);
+    color: white;
+    border-radius: 3px;
+    border:3px rgb(255, 77, 77); 
+    
+    cursor: pointer;
+
+    margin-left:325px;
+}
+
 .Texto_termos p a
 {
     text-decoration: underline;
