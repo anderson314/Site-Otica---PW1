@@ -43,6 +43,7 @@ header
     max-width: 960px;
     width: 100%;
     margin: 0 auto;
+    font-family: Trebuchet MS;
 }
 
 /* links de navegacao da pagina */
@@ -56,7 +57,7 @@ nav{
 nav a{
     color: rgb(187, 187, 187); 
     text-decoration: none; /*tira o underline do link */
-    font-family: 
+    font-family:Trebuchet MS; 
 }
 
 nav a.btn_destaque{

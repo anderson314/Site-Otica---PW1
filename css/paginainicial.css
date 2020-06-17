@@ -1,3 +1,5 @@
+/*PÁGINA: INICIAL*/
+
 /*Deixa toda a página centralizada. Sem bordas brancas ao lado.*/
 *{
 	padding:0;
@@ -22,6 +24,7 @@ body
     max-width: 960px;
     width: 100%;
     margin: 0 auto;
+    font-family: Trebuchet MS;
 }
 
 .logo
@@ -44,6 +47,7 @@ nav{
     font-size: 12px;
     float: right;
     margin-top: 50px;
+    font-family: Trebuchet MS;
 }
 
 nav a{
@@ -51,6 +55,7 @@ nav a{
     text-decoration: none; /*tira o underline do link */
     
 }
+
 
 nav a.btn_destaque{
     margin-left: 25px;
